@@ -1,9 +1,8 @@
-# Driver Station Setup for DRIVE TEAM!!!
+# Drive Station Setup for DRIVE TEAM!!!
 - made by julie al-otoom
-- [Google doc version of this file](https://docs.google.com/document/d/1bfID1iL6onMaWWHNS4RCUdbHaAoILyKH5myG3_x-HGo/edit?usp=sharing)
-- [Extra info on radio setup by Suleyman](https://docs.google.com/document/d/1GJuiOsG_LD7BDZ0magH3Mowrto_uFdIzVgmyK38oHLI/edit?usp=sharing)
+- [Extra info on radio/controller setup by Suleyman](https://docs.google.com/document/d/1GJuiOsG_LD7BDZ0magH3Mowrto_uFdIzVgmyK38oHLI/edit?usp=sharing)
 ## 1. Get an epic robot for driving
-This step is self explanatory... just make sure that software has confirmed the robot is good for driving. Turn on the robot!
+This step is self explanatory... just make sure that software has confirmed the robot is good for driving. Get two batteries and verify they are at least 80% and are of good/new quality, and put them in the robot. Turn on the robot!
 ## 2. Setup connections
 Once you have your robot enabled, get a working software computer. This used to be krypton reborn but he was recently unborn… so we now use Praseodymium as it is the most common. Though other computers should work.
 
@@ -28,7 +27,7 @@ Here are visuals on how exactly the setup looks:
 
 ![e](image.png)
 
-On the computer, connect to the robot through your WiFi settings. You are now connected!
+### On the computer, connect to the robot through your WiFi settings. You are now connected!
 ## 3. Deploy code
 Open “2025 WPILib Code” (search for it in the Windows application search thing), and open the repository that matches with the robot we are using. If it opens on the homepage, it should list recent repositories. You can select your desired repo from here.
 
@@ -64,3 +63,21 @@ Click back to the steering wheel symbol on the left. Make sure:
 Make sure the area around it is safe (no person or important item is near the robot and is at risk of being obliterated) then say “Robot enabling” loudly as you press `ENABLE`.
 ### Disabling the robot
 Press `DISABLE` (you can also press the `Enter/return` key to disable quicker in an emergency situation).
+
+## 5. Troubleshooting
+
+Below are common issues with the robot from this year (or past years) and how they can be improved.
+
+
+### Shaky/jittery movement, randomly being slow/stopping
+The battery is either very low or it's just a bad quality battery :( check the voltage through the Driver Station panel or using the battery beak for better reading, and switch out the battery. Even if the battery is not low or not bad quality, it is best to try switching to another battery if possible.
+
+### (on the main season bot 2024-2025) Increased tipping/instability
+Don't move so fast while the elevator is up!! We can't fix this unfortunately, it's just how it was designed
+
+### (on the main season bot 2024-2025) Elevator string unspooling
+i hate when this happens
+
+you have to get a specific wrench (note to self, be more specific here!) and spool it again, try not to have it be super tight (or maybe do? i dont remember ask huda)
+
+### if more issues come up when using this robot, or just with the drive station setup in general, PLEASE UPDATE THIS!! :)
