@@ -80,4 +80,4 @@ i hate when this happens
 
 you have to get a specific wrench (note to self, be more specific here!) and spool it again, try not to have it be super tight (or maybe do? i dont remember ask huda)
 
-### if more issues come up when using this robot, or just with the drive station setup in general, PLEASE UPDATE THIS!! :)
+#### To submit edits to drive manual, [make an issue :)](https://github.com/montypythonist/driveteam/issues/new)
