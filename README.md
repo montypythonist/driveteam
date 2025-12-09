@@ -52,9 +52,12 @@ Click back to the steering wheel symbol on the left. Make sure:
 
 …are all working (they will show as green).
 
-`(INSERT STREAMDECK INSTRUCTIONS HERE)`
+## 4. (optional) Streamdeck setup
+Take the streamdeck out of the box, and use the cable in the box to connect the streamdeck to the right USB port on the computer as shown in the images:
+![e](imageofdoom.png)
+Now, open a `NEW WINDOW` in VSCode, and look for the streamdeck repository. Once opened, run the `streamdeck.py` file. There should be new symbols on the streamdeck.
 
-## 4. Driving the robot
+## 5. Driving the robot
 
 - When you have verified everything works, click on “TeleOperated” mode.
 
@@ -64,7 +67,7 @@ Make sure the area around it is safe (no person or important item is near the ro
 ### Disabling the robot
 Press `DISABLE` (you can also press the `Enter/return` key to disable quicker in an emergency situation).
 
-## 5. Troubleshooting
+## 6. Troubleshooting
 
 Below are common issues with the robot from this year (or past years) and how they can be improved.
 
