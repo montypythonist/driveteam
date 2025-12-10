@@ -60,8 +60,8 @@ Now, open a `NEW WINDOW` in VSCode, and look for the streamdeck repository. Once
 ## 5. Driving the robot
 
 - When you have verified everything works, click on “TeleOperated” mode.
-
 - When you are about to drive, make sure you have an operator with you to E-Stop if needed (pressing Enter will automatically disable to do this).
+- The operator can use the streamdeck to help control the robot as well
 ### Enabling the robot
 Make sure the area around it is safe (no person or important item is near the robot and is at risk of being obliterated) then say “Robot enabling” loudly as you press `ENABLE`.
 ### Disabling the robot
@@ -83,4 +83,5 @@ i hate when this happens
 
 you have to get a specific wrench (note to self, be more specific here!) and spool it again, try not to have it be super tight (or maybe do? i dont remember ask huda)
 
-#### To submit edits to drive manual, [make an issue :)](https://github.com/montypythonist/driveteam/issues/new)
+# something wrong in this manual? questions? new setup info? 
+[make a submission in the issues tab :)](https://github.com/montypythonist/driveteam/issues/new)
