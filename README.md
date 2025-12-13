@@ -3,6 +3,16 @@
 - [Extra info on radio/controller setup by Suleyman](https://docs.google.com/document/d/1GJuiOsG_LD7BDZ0magH3Mowrto_uFdIzVgmyK38oHLI/edit?usp=sharing)
 ## 1. Get an epic robot for driving
 This step is self explanatory... just make sure that software has confirmed the robot is good for driving. Get two batteries and verify they are at least 80% and are of good/new quality, and put them in the robot. Turn on the robot!
+
+BONUS THING: FOR BUNNYBOTS 2025
+Drive team reset protocol before match (do all this b4 deploy)
+ 
+1. Drop Elevator 
+2. Align indexer wheels (in x shape not +)
+3. Make sure correct auto is selected before code deploy (strategy with other alliance members)
+
+
+
 ## 2. Setup connections
 Once you have your robot enabled, get a working software computer. This used to be krypton reborn but he was recently unborn… so we now use Praseodymium as it is the most common. Though other computers should work.
 
