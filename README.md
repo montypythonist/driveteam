@@ -77,6 +77,8 @@ Make sure the area around it is safe (no person or important item is near the ro
 ### Disabling the robot
 Press `DISABLE` (you can also press the `Enter/return` key to disable quicker in an emergency situation).
 
+#### TO RUN AUTO IN COMPETITION: SET THE MODE FROM TELEOP TO AUTO AND HAVE THE OPERATOR ENABLE IT
+
 ## 6. Troubleshooting
 
 Below are common issues with the robot from this year (or past years) and how they can be improved.
