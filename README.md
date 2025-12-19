@@ -1,4 +1,11 @@
-# Drive Station Setup for DRIVE TEAM!!!
+# THIS IS OUT OF DATE!!!!!!!!!!!!!!!!!!!!!!!!!
+- updated manuals here: [Driver Station Setup Guide](https://docs.google.com/document/d/1bfID1iL6onMaWWHNS4RCUdbHaAoILyKH5myG3_x-HGo/edit?usp=sharing)
+
+-------
+
+
+
+## Drive Station Setup for DRIVE TEAM!!!
 - made by julie al-otoom
 - [Extra info on radio/controller setup by Suleyman](https://docs.google.com/document/d/1GJuiOsG_LD7BDZ0magH3Mowrto_uFdIzVgmyK38oHLI/edit?usp=sharing)
 ## 1. Get an epic robot for driving
